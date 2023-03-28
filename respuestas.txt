@@ -1,3 +1,5 @@
+A continuación está la respuesta de cada una de las instrucciones de la práctica de command line.
+Fueron ejecutados en mi compu de forma local, poq no pude instalar el npm, entonces desde gitpod ejecuté la página e iba leyendo las instrucciones y desde local ejecuté todo en mi git bash
 1
     cd thecmdchallenge
 2
